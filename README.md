@@ -1,2 +1,2 @@
-# goit-js-hw-01
-very first JS hw
+# goit-js-hw-02
+the second JS hw
